@@ -1,0 +1,2 @@
+child 9767 is terminated
+child 9769 is terminated

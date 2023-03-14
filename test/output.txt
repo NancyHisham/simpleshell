@@ -1,0 +1,11 @@
+child 8132 is terminated
+child 8133 is terminated
+child 8135 is terminated
+child 8160 is terminated
+child is zombie
+child 8166 is terminated
+child 9771 is terminated
+child is zombie
+child 9897 is terminated
+child 9917 is terminated
+child 9921 is terminated
